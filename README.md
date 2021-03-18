@@ -1,3 +1,19 @@
+**# About The Project**
+
+Hi everyone ...
+This is a Voice Recognization News Application which is created using React js framework as frontend and NewsAPI.org is used for up-to-date News Data. For voice recognization I have used Alan AI as a third party AI tool.
+We can learn concepts through this project like
+1)React js framework
+2)API calls
+3)Material UI
+4)Alan AI commands
+5)Data Visualization
+
+![image](https://user-images.githubusercontent.com/68766883/111608746-93bd5080-87ff-11eb-9e39-97f4f083041b.png)
+
+
+![image](https://user-images.githubusercontent.com/68766883/111608851-ae8fc500-87ff-11eb-80e1-3626507bf847.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
